@@ -6,10 +6,10 @@ Gem::Specification.new do |spec|
   spec.version       = VERSION
   spec.authors       = ["Toshiaki Takahashi"]
   spec.email         = ["toshiaki.takahashi@gengo.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
-  spec.license       = ""
+  spec.description   = %q{Gengo API wrapper for RubyMotion}
+  spec.summary       = %q{}
+  spec.homepage      = "http://gengo.com/developers/"
+  spec.license       = "New BSD License"
 
   files = []
   files << 'README.md'
