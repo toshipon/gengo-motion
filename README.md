@@ -1,6 +1,6 @@
 # gengo-motion
 
-TODO: Write a gem descriptionれくぉう
+Gengo API Wrapper for RubyMotion
 
 ## Installation
 
