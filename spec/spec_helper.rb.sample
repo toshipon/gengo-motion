@@ -1,0 +1,5 @@
+ENV['GENGO_PUBKEY'] = ''
+ENV['GENGO_PRIVKEY'] = ''
+ENV['DEBUG'] = 'true'
+ENV['SANDBOX'] = 'true'
+ENV['USER_CURRENCY_CODE'] = 'USD'

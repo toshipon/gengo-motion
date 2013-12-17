@@ -1,0 +1,3 @@
+[submodule "vendor/ruby_base_motion"]
+	path = vendor/ruby_base_motion
+	url = https://github.com/barttenbrinke/RubyBaseMotion.git
