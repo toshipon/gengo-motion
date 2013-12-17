@@ -5,6 +5,8 @@ app/pixate_code.rb
 resources/*.nib
 resources/*.momd
 resources/*.storyboardc
+vendor/Pods/
+vendor/bundle/
 .DS_Store
 nbproject
 .redcar
