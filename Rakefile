@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 $:.unshift("/Library/RubyMotion/lib")
+require "bundler/gem_tasks"
 require 'motion/project/template/ios'
 require './lib/gengo-motion'
 
